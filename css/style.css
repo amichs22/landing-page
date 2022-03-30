@@ -139,3 +139,13 @@ section .container1 {
     border-radius: 10px;
     color: white;
 }
+
+.copyright {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    min-height: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
