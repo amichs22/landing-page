@@ -97,6 +97,11 @@ section .container1 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    max-width: 150px;
+}
+
+.box p {
+    text-align: center;
 }
 
 .container1 h2 {
