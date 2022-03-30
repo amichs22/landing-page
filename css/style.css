@@ -87,6 +87,12 @@ section .container1 {
     gap: 10px;
 }
 
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .container1 h2 {
     margin-bottom: 30px;
     font-size: 36px;
